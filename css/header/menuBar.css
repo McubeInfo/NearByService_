@@ -257,7 +257,7 @@ input {
   .mobile-nav {
   transform: translate(0%)!important;
 }
-  /* SEARCH DISABLED ON MOBILE*/
+  /* SEARCH DISABLED ON MOBILE DEVICEA*/
   
   #search-icon {
     display: none;
